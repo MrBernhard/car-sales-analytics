@@ -53,10 +53,22 @@ Finally, since the sales per year data was stored in columns, it was transformed
 ```
 Which was then converted into a comma-saparated format by iterating over each object, and exported as a CSV file with the following structure:
 
+
 <img width="1005" alt="CSV_table_structure" src="https://github.com/user-attachments/assets/4657a19b-e700-4e0e-b401-2a9a0ee8b91e" />
 
 
+> [!NOTE]
+> To view the full code, please refer to [table_scraper.js](JS_Data_Scraper/table_scraper.js)
 
 ## 📊 Data Visualization
+
+Once the CSV file was ready, I decided to follow an alternative path to visualize the data. So, instead of loading it into a Jyputer notebook using Python, I used [Google Looker Studio](https://lookerstudio.google.com/overview), since it is a free, online-based visual analytics platform that allows the user to create data visualizations to get insights.
+
+
+![Dashboard_Snapshot](https://github.com/user-attachments/assets/3a5080c9-807b-4cce-acbe-5fcd088a3104)
+
+
+> [!NOTE]
+> To access the full dashboard, please go to https://lookerstudio.google.com/reporting/bb0b17cc-ca68-4481-963b-9c1868d82856
 
 ## ⚙️ Data Analysis
