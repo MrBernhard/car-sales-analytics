@@ -1,0 +1,24 @@
+[
+  {
+    "Country": "Country_1",
+    "Group": "Group_1",
+    "Brand": "Brand_1",
+    "Type": "Type_1",
+    "Segment": "Segment_1",
+    "Model": "Model_1",
+    "Powertrain": "Powertrain_1",
+    "Year": "2013",
+    "Sales": 12345
+  },
+  {
+    "Country": "Country_1",
+    "Group": "Group_1",
+    "Brand": "Brand_1",
+    "Type": "Type_1",
+    "Segment": "Segment_1",
+    "Model": "Model_1",
+    "Powertrain": "Powertrain_1",
+    "Year": "2014",
+    "Sales": 67890
+  }
+]
