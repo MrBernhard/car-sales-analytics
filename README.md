@@ -65,7 +65,8 @@ Which was then converted into a comma-saparated format by iterating over each ob
 Once the CSV file was ready, I decided to follow an alternative path to visualize the data. So, instead of loading it into a Jyputer notebook using Python, I used [Google Looker Studio](https://lookerstudio.google.com/overview), since it is a free, online-based visual analytics platform that allows the user to create data visualizations to get insights.
 
 
-![Dashboard_Snapshot](https://github.com/user-attachments/assets/3a5080c9-807b-4cce-acbe-5fcd088a3104)
+![Dashboard_Snapshot_2](https://github.com/user-attachments/assets/abd0a009-637b-4a22-9c6a-51ca87fa616d)
+
 
 
 > [!NOTE]
