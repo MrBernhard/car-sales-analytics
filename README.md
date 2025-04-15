@@ -132,7 +132,8 @@ More data is required in our dataset, specifically consumer ratings/comments reg
 ## ➡️ Next Steps
 
 To fulfill the second project objective and continue with the development of this project, the planned next steps would be:
-- [ ] Find a source that provides data corresponding to consumer ratings/comments regarding car specifications like features, interior design, exterior design, space, comfort, performance, fuel-economy, price, availability, etc.
+- [ ] Find a source that provides data corresponding to consumer ratings/comments regarding car specifications like features, interior design, exterior design, space, comfort, performance, fuel-economy, price, availability, etc. [^1]
 - [ ] Create a new dashboard page and perform a diagnostic analysis to validate potential relationships exist between the consumer ratings/comments, and the sales volume of the years with available data (2013 - 2024)
 - [ ] If a significant relationship exist between the consumer perception of the car and its sales volume in a specific country/region, use the corrresponding data to train an appropiate AI model capable of providing the probability of a new car of being purchased by the customers in this specific country/region.
 
+[^1]: The data dimensions where taken from the project available on https://srni-car.github.io
